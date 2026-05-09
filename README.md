@@ -12,3 +12,6 @@ A Python project for managing student records.
 - Python
 - JSON
 - GitHub
+## Screenshots
+
+![Main Menu](screenshots/mainmenu.png)
